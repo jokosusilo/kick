@@ -1,0 +1,18 @@
+{
+  "name": "kick",
+  "version": "1.0.0",
+  "description": "A simple html starter using parcel and tailwindcss.",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Joko Susilo",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
